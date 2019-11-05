@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mthurmond.github.io/react-tic-tac-toe/",
+  "homepage": "https://mthurmond.github.io/react-tic-tac-toe",
   "dependencies": {
     "formik": "^2.0.3",
     "gh-pages": "^2.1.1",
